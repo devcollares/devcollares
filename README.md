@@ -9,7 +9,7 @@
   <b>`Dev Collares`</b>
   <samp>
       <br>
-      Welcome here! I'm <b>João Pedro Collares</b>
+      Welcome here! I'm <b>Collares</b>
   </samp>
 </div>
 
