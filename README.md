@@ -63,6 +63,6 @@
   <br>
   <br>
 
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0045ff?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/codecollares/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0045ff?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/devcollares/)
   
 </div>
