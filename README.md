@@ -18,7 +18,7 @@
 </div>
 
 <div>
-  <p>
+  <p align="center">
     <br><br>
     > Sou um estudante de Análise e Desenvolvimento de Sistemas pelo IFRS natural<br>do Rio Grande do Sul e apaixonado por tecnologia e chocolate quente.<br>Trato a programação como algo além de uma simples forma de criar tecnologias<br>e resolver problemas, como uma <b>forma de arte</b>._
   </p>
