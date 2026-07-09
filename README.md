@@ -17,6 +17,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&pause=1000&color=1671F7&center=true&vCenter=true&width=435&lines=Hello+there!;I'm+a+Brazilian+software+developer;And+I+came+from+the+stars" alt="Typing SVG" />
 </div>
 
+<div>
+  <p>
+    <br><br>
+    > Sou um estudante de Análise e Desenvolvimento de Sistemas pelo IFRS natural<br>do Rio Grande do Sul e apaixonado por tecnologia e chocolate quente.<br>Trato a programação como algo além de uma simples forma de criar tecnologias<br>e resolver problemas, como uma <b>forma de arte</b>._
+  </p>
+</div>
+
+<br><br>
+
 <div data-importer="image" align="center">
   <img data-importer="image" height="400" src="https://i.postimg.cc/LsW6RDcM/pixil-gif-drawing(1).gif"  />
 </div>
