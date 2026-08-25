@@ -20,7 +20,7 @@
 <div>
   <p align="center">
     <br><br>
-    > Sou um estudante de Análise e Desenvolvimento de Sistemas pelo IFRS, natural<br>do Rio Grande do Sul, e apaixonado por tecnologia e chocolate quente.<br>Trato a programação como algo além de uma simples forma de criar tecnologias<br>e resolver problemas, como uma <b>forma de arte</b>._
+    > I’m a student of Systems Analysis and Development at IFRS, originally from<br>Rio Grande do Sul, and I’m passionate about technology and hot chocolate.<br>I see programming as more than just a way to create technology<br>and solve problems, I see it as a <b>form of art</b>._
   </p>
 </div>
 
